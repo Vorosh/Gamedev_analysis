@@ -1,5 +1,5 @@
 # Gamedev_analysis
-
+![Pict](https://pbs.twimg.com/media/EVqnesMU0AAuVL5?format=jpg&name=900x900)
 ## Описание:
 |Название   	|Сфера   	|Основные этапы   	|Стек   	|
 |---	|---	|---	|---	|
