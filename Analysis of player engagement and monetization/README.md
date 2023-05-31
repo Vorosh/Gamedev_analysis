@@ -1,5 +1,4 @@
-# Название
-Анализ мобильной игры. Вовлеченность и монетизация.
+# Анализ мобильной игры. Вовлеченность и монетизация
 
 ### Открыть через NbViewer для корректного отображения графиков: [ссылка](https://nbviewer.org/github/Vorosh/Gamedev_analysis/blob/main/Analysis%20of%20player%20engagement%20and%20monetization/Voroshilov_A_gamedev_task.ipynb)
 
