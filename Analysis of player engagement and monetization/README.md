@@ -1,3 +1,4 @@
+![game](https://i.ytimg.com/vi/OfiwAAEdR10/maxresdefault.jpg)
 # Название
 Анализ мобильной игры. Вовлеченность и монетизация.
 
